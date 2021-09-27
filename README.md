@@ -17,10 +17,10 @@ A data scientist has designed a deep learning solution in a notebook that perfor
     - Where any MLOps specific tools (e.g KubeFlow, MLflow, DVC, etc.) could be employed.
 
 ## Guidance
-We understand that this is quite a lot to achieve in a reasonable amount of time (up to 4 hours - though please discuss with us if you are unable to commit to this amount of time) and that the task is somewhat vague and very open ended. This is intentional as we wish to understand how you think about these type of open ended problems and your process for working through them with this forming the basis of our discussions at interview.  Consequently, it is very unlikely you will have a complete solution especially for part 2 above. In lieu of a complete solution a part solution detailed enough to demonstrate your competency with python would be sufficent here. Also, feel free to make whatever notes you feel appropriate and bring them to the interview. The interview itself will be discussion based so there is no need to share these with us, create a slide deck or anything like that.
+We understand that this is quite a lot to achieve in a reasonable amount of time and that the task is somewhat vague and very open ended. This is intentional as we wish to understand how you think about these type of open ended problems and your process for working through them with this forming the basis of our discussions at interview.  Consequently, it is very unlikely you will have a complete solution especially for part 2 above. In lieu of a complete solution a part solution detailed enough to demonstrate your competency with python would be sufficent here. Also, feel free to make whatever notes you feel appropriate and bring them to the interview. The interview itself will be discussion based so there is no need to share these with us, create a slide deck or anything like that.
 
 ## Questions and queries
-If you have any questions or queries, please email {email}
+If you have any questions or queries, please email Toumetis.
 
 ## Resources
 
